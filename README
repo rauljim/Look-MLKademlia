@@ -1,0 +1,36 @@
+Dependencies.
+
+1- python. preferably python 3.x but 2.6 will also work
+2- python-wxtools, libwxbase2.8-0,libwxgtk2.8-0,python-wxgtk2.8,python-wxversion
+3- install pcap
+	a)sudo apt-get install python-libpcap
+4- install dpkt
+	a)get dpkt-1.7.tar.gz from website, http://code.google.com/p/dpkt/
+	  downloads/list
+	b)untar dpkt tar file
+	c)sudo python setup.py install
+5- sudo apt-get install python-numpy (for wxlibplot...I was havinf errors    
+         without this installation)
+
+6-Install pygeoip
+	a)hg clone https://pygeoip.googlecode.com/hg/ pygeoip
+	b)if hg is not installed , install it first by 
+		sudo apt-get install mercurial
+
+	c)If you have setuptools installed, you can just run:
+
+		# easy_install pygeoip
+
+		If not, you can just download the source and run:
+
+
+		# python setup.py install
+
+		This will install setuptools prior to installing pygeoip 
+
+	d) go to the http://www.maxmind.com/app/geolitecountry
+
+	click the link "Download the latest GeoLite Country Binary Format "
+
+	to get GeoIP.dat which is database file for countries. Make a folder 
+	named "GeoIP" in /usr/local/share and put GeoIp.dat in that folder.
