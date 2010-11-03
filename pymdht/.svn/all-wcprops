@@ -1,0 +1,59 @@
+K 25
+svn:wc:ra_dav:version-url
+V 46
+/repos/sara/!svn/ver/97/lookatkad/trunk/pymdht
+END
+pymdht_daemon_api.txt
+K 25
+svn:wc:ra_dav:version-url
+V 68
+/repos/sara/!svn/ver/97/lookatkad/trunk/pymdht/pymdht_daemon_api.txt
+END
+pymdht_daemon.py
+K 25
+svn:wc:ra_dav:version-url
+V 63
+/repos/sara/!svn/ver/98/lookatkad/trunk/pymdht/pymdht_daemon.py
+END
+LICENSE.txt
+K 25
+svn:wc:ra_dav:version-url
+V 58
+/repos/sara/!svn/ver/97/lookatkad/trunk/pymdht/LICENSE.txt
+END
+interactive_dht.py
+K 25
+svn:wc:ra_dav:version-url
+V 65
+/repos/sara/!svn/ver/97/lookatkad/trunk/pymdht/interactive_dht.py
+END
+MDHT_Spec.txt
+K 25
+svn:wc:ra_dav:version-url
+V 60
+/repos/sara/!svn/ver/99/lookatkad/trunk/pymdht/MDHT_Spec.txt
+END
+__init__.py
+K 25
+svn:wc:ra_dav:version-url
+V 58
+/repos/sara/!svn/ver/98/lookatkad/trunk/pymdht/__init__.py
+END
+LGPL-2.1.txt
+K 25
+svn:wc:ra_dav:version-url
+V 59
+/repos/sara/!svn/ver/97/lookatkad/trunk/pymdht/LGPL-2.1.txt
+END
+DEPRECATED_server_dht.py
+K 25
+svn:wc:ra_dav:version-url
+V 71
+/repos/sara/!svn/ver/98/lookatkad/trunk/pymdht/DEPRECATED_server_dht.py
+END
+README
+K 25
+svn:wc:ra_dav:version-url
+V 53
+/repos/sara/!svn/ver/99/lookatkad/trunk/pymdht/README
+END

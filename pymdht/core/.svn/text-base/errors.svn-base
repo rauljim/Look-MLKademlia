@@ -1,0 +1,59 @@
+************* Module lookup_plugin_template
+E: 54:MaintenanceLookup.__init__: Undefined variable 'message'
+************* Module querier
+E: 27:Query.on_response_received: Instance of 'Query' has no 'query_ts' member
+E: 33:Query.on_error_received: Instance of 'Query' has no 'query_ts' member
+************* Module test_bencode
+E:  5: No name 'assert_raises' in module 'nose.tools'
+************* Module test_identifier
+E:  9: No name 'assert_raises' in module 'nose.tools'
+************* Module test_message
+E:  5: No name 'assert_raises' in module 'nose.tools'
+E:196:TestEvilIncomingQueries._test_ping_error: No value passed for parameter 'tid' in function call
+E:197:TestEvilIncomingQueries._test_ping_error: Module 'message' has no 'decode' member
+E:204:TestEvilIncomingQueries._test_ping_error: No value passed for parameter 'tid' in function call
+E:206:TestEvilIncomingQueries._test_ping_error: Module 'message' has no 'decode' member
+E:468:TestSanitizeResponseError._test_sanitize: Instance of 'IncomingMsg' has no 'sanitize_response' member
+E:472:TestSanitizeResponseError._test_sanitize: Instance of 'IncomingMsg' has no 'sanitize_response' member
+E:476:TestSanitizeResponseError._test_sanitize: Instance of 'IncomingMsg' has no 'sanitize_response' member
+E:480:TestSanitizeResponseError._test_sanitize: Instance of 'IncomingMsg' has no 'sanitize_response' member
+E:485:TestSanitizeResponseError._test_sanitize: Instance of 'IncomingMsg' has no 'sanitize_response' member
+E:489:TestSanitizeResponseError._test_sanitize: Instance of 'IncomingMsg' has no 'sanitize_response' member
+************* Module test_message_tools
+E:  5: No name 'assert_raises' in module 'nose.tools'
+************* Module test_minitwisted
+E: 11: No name 'assert_raises' in module 'nose.tools'
+************* Module test_node
+E:  7: No name 'assert_raises' in module 'nose.tools'
+************* Module test_querier
+E:288:OldTestQuery._test_on_timeout: Instance of 'Query' has no 'on_timeout' member
+E:424:_OldTestQuerier.send_query_and_get_response: Instance of '_OldTestQuerier' has no 'querier_mock' member
+E:459:_OldTestQuerier.send_query_and_get_error: Instance of '_OldTestQuerier' has no 'querier_mock' member
+E:463:_OldTestQuerier.send_query_and_get_error: No value passed for parameter 'tid' in function call
+E:491:_OldTestQuerier.send_query_and_get_timeout: Instance of '_OldTestQuerier' has no 'querier_mock' member
+E:498:_OldTestQuerier._test_send_query_mock: Instance of '_OldTestQuerier' has no 'querier_mock' member
+E:512:_OldTestQuerier._test_send_query_routing: Instance of '_OldTestQuerier' has no 'querier_routing' member
+E:518:_OldTestQuerier._test_send_query_timeout_mock: Instance of '_OldTestQuerier' has no 'querier_mock' member
+E:530:_OldTestQuerier._test_send_query_timeout_routing: Instance of '_OldTestQuerier' has no 'querier_routing' member
+E:537:_OldTestQuerier._test_send_query_later: Instance of '_OldTestQuerier' has no 'querier_routing' member
+E:548:_OldTestQuerier._test_unsolicited_response: Instance of 'Querier' has no 'send_query' member
+************* Module test_routing_table
+E:  7: No name 'assert_raises' in module 'nose.tools'
+E:  7: No name 'assert_false' in module 'nose.tools'
+E:  7: No name 'assert_not_equal' in module 'nose.tools'
+E:240:TestRoutingTable._test_pop_sbucket_parameters: Instance of 'RoutingTable' has no 'pop_sbucket' member
+E:243:TestRoutingTable._test_pop_sbucket_parameters: Instance of 'RoutingTable' has no 'pop_sbucket' member
+E:245:TestRoutingTable._test_pop_sbucket_parameters: Instance of 'RoutingTable' has no 'pop_sbucket' member
+E:246:TestRoutingTable._test_pop_sbucket_parameters: Instance of 'RoutingTable' has no 'put_sbucket' member
+E:247:TestRoutingTable._test_pop_sbucket_parameters: Instance of 'RoutingTable' has no 'pop_sbucket' member
+E:248:TestRoutingTable._test_pop_sbucket_parameters: Instance of 'RoutingTable' has no 'put_sbucket' member
+E:249:TestRoutingTable._test_pop_sbucket_parameters: Instance of 'RoutingTable' has no 'pop_sbucket' member
+E:251:TestRoutingTable._test_pop_sbucket_parameters: Instance of 'RoutingTable' has no 'put_sbucket' member
+E:260:TestRoutingTable._test_invalid_put: Instance of 'RoutingTable' has no 'put_sbucket' member
+E:262:TestRoutingTable._test_invalid_put: Instance of 'RoutingTable' has no 'pop_sbucket' member
+E:265:TestRoutingTable._test_invalid_put: Instance of 'RoutingTable' has no 'put_sbucket' member
+E:266:TestRoutingTable._test_invalid_put: Instance of 'RoutingTable' has no 'put_sbucket' member
+E:268:TestRoutingTable._test_invalid_put: Instance of 'RoutingTable' has no 'pop_sbucket' member
+E:272:TestRoutingTable._test_invalid_put: Instance of 'RoutingTable' has no 'put_sbucket' member
+************* Module test_tracker
+E:  5: No name 'assert_raises' in module 'nose.tools'

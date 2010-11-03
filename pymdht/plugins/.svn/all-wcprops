@@ -1,0 +1,143 @@
+K 25
+svn:wc:ra_dav:version-url
+V 54
+/repos/sara/!svn/ver/98/lookatkad/trunk/pymdht/plugins
+END
+routing_nice_rtt64.py
+K 25
+svn:wc:ra_dav:version-url
+V 76
+/repos/sara/!svn/ver/98/lookatkad/trunk/pymdht/plugins/routing_nice_rtt64.py
+END
+x_lookup_manager_p1.py
+K 25
+svn:wc:ra_dav:version-url
+V 77
+/repos/sara/!svn/ver/98/lookatkad/trunk/pymdht/plugins/x_lookup_manager_p1.py
+END
+lookup_m2_a4.py
+K 25
+svn:wc:ra_dav:version-url
+V 70
+/repos/sara/!svn/ver/98/lookatkad/trunk/pymdht/plugins/lookup_m2_a4.py
+END
+lookup_a2.py
+K 25
+svn:wc:ra_dav:version-url
+V 67
+/repos/sara/!svn/ver/98/lookatkad/trunk/pymdht/plugins/lookup_a2.py
+END
+x_lookup_manager_p2.py
+K 25
+svn:wc:ra_dav:version-url
+V 77
+/repos/sara/!svn/ver/98/lookatkad/trunk/pymdht/plugins/x_lookup_manager_p2.py
+END
+lookup_m3_a4.py
+K 25
+svn:wc:ra_dav:version-url
+V 70
+/repos/sara/!svn/ver/98/lookatkad/trunk/pymdht/plugins/lookup_m3_a4.py
+END
+lookup_a4.py
+K 25
+svn:wc:ra_dav:version-url
+V 67
+/repos/sara/!svn/ver/98/lookatkad/trunk/pymdht/plugins/lookup_a4.py
+END
+x_lookup_manager_p5.py
+K 25
+svn:wc:ra_dav:version-url
+V 77
+/repos/sara/!svn/ver/98/lookatkad/trunk/pymdht/plugins/x_lookup_manager_p5.py
+END
+__init__.py
+K 25
+svn:wc:ra_dav:version-url
+V 66
+/repos/sara/!svn/ver/98/lookatkad/trunk/pymdht/plugins/__init__.py
+END
+lookup_a8.py
+K 25
+svn:wc:ra_dav:version-url
+V 67
+/repos/sara/!svn/ver/98/lookatkad/trunk/pymdht/plugins/lookup_a8.py
+END
+test_lookup_manager.py
+K 25
+svn:wc:ra_dav:version-url
+V 77
+/repos/sara/!svn/ver/98/lookatkad/trunk/pymdht/plugins/test_lookup_manager.py
+END
+routing_bep5.py
+K 25
+svn:wc:ra_dav:version-url
+V 70
+/repos/sara/!svn/ver/98/lookatkad/trunk/pymdht/plugins/routing_bep5.py
+END
+x.routing_manager.py.no
+K 25
+svn:wc:ra_dav:version-url
+V 78
+/repos/sara/!svn/ver/98/lookatkad/trunk/pymdht/plugins/x.routing_manager.py.no
+END
+x.lookup_manager2.py.no
+K 25
+svn:wc:ra_dav:version-url
+V 78
+/repos/sara/!svn/ver/98/lookatkad/trunk/pymdht/plugins/x.lookup_manager2.py.no
+END
+lookup_m2.py
+K 25
+svn:wc:ra_dav:version-url
+V 67
+/repos/sara/!svn/ver/98/lookatkad/trunk/pymdht/plugins/lookup_m2.py
+END
+lookup_m3.py
+K 25
+svn:wc:ra_dav:version-url
+V 67
+/repos/sara/!svn/ver/98/lookatkad/trunk/pymdht/plugins/lookup_m3.py
+END
+x_routing_manager_p1.py
+K 25
+svn:wc:ra_dav:version-url
+V 78
+/repos/sara/!svn/ver/98/lookatkad/trunk/pymdht/plugins/x_routing_manager_p1.py
+END
+x_routing_manager_p4.py
+K 25
+svn:wc:ra_dav:version-url
+V 78
+/repos/sara/!svn/ver/98/lookatkad/trunk/pymdht/plugins/x_routing_manager_p4.py
+END
+routing_nice_rtt.py
+K 25
+svn:wc:ra_dav:version-url
+V 74
+/repos/sara/!svn/ver/98/lookatkad/trunk/pymdht/plugins/routing_nice_rtt.py
+END
+test_routing_manager.py
+K 25
+svn:wc:ra_dav:version-url
+V 78
+/repos/sara/!svn/ver/98/lookatkad/trunk/pymdht/plugins/test_routing_manager.py
+END
+x.lookup_manager.py.no
+K 25
+svn:wc:ra_dav:version-url
+V 77
+/repos/sara/!svn/ver/98/lookatkad/trunk/pymdht/plugins/x.lookup_manager.py.no
+END
+x.routing_manager2.py.no
+K 25
+svn:wc:ra_dav:version-url
+V 79
+/repos/sara/!svn/ver/98/lookatkad/trunk/pymdht/plugins/x.routing_manager2.py.no
+END
+routing_nice.py
+K 25
+svn:wc:ra_dav:version-url
+V 70
+/repos/sara/!svn/ver/98/lookatkad/trunk/pymdht/plugins/routing_nice.py
+END
